@@ -2,6 +2,7 @@
 
 Este proyecto te permite recibir notificaciones por WhatsApp cuando la Estación Espacial Internacional (ISS) es visible desde tu ubicación, siempre que las condiciones climáticas sean favorables y sea de noche.
 
+![sample of messages](images/sample.jpg)
 ---
 
 ## 🚀 ¿Cómo funciona?
